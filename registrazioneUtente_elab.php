@@ -37,8 +37,6 @@
         if(($_POST['registrati'])=="Registrati"){
             echo "Registrato <br>";
         }
-
-
         ?>
     
 </body>
