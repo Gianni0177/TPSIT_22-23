@@ -41,17 +41,17 @@
                 <option value="default">
 
                 </option>
-                <option value="italia">
-                    +39
+                <option value="+39">
+                italia
                 </option>
-                <option value="inghilterra">
-                    +44
+                <option value="+44">
+                inghilterra
                 </option>
-                <option value="ungheria">
-                    +36
+                <option value="+36">
+                ungheria
                 </option>
-                <option value="svizzera">
-                    +41
+                <option value="+41">
+                svizzera
                 </option>
             </select>
             <input type="text" name="suffix" maxlength="10" size="7" placeholder="0123456789"><br><br>
@@ -86,7 +86,7 @@
             <input type="checkbox" name="p2" value="P">pubblicità &nbsp;&nbsp;
             <input type="checkbox" name="p3" value="A">altro<br><br>
             
-            <input type="submit" name="registrati" value="REGISTRATI">
+            <input type="submit" name="registrati" value="True" placeholder="Registrati">
                 
             </center>
         </form>
