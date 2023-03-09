@@ -87,11 +87,7 @@
             <input type="checkbox" name="p3" value="A">altro<br><br>
             
             <input type="submit" name="registrati" value="REGISTRATI">
-
-
-
-
-
+                
             </center>
         </form>
 </body>
